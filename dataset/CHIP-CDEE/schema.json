@@ -1,0 +1,14 @@
+
+{
+    "ent_type": [
+        "class"
+    ],
+    "et2arg": {
+        "否定": ["character", "anatomy_list"],
+        "不确定": ["character", "anatomy_list"],
+        "未知": ["character", "anatomy_list"]
+    },
+    "roles": [
+        "character", "anatomy_list"
+    ]
+}

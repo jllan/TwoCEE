@@ -1,0 +1,145 @@
+[
+  {
+    "id": 268,
+    "text": "患者本次发病以来，食欲正常，神志清醒，精神尚可，睡眠欠佳，大便正常，小便正常，体重无明显变化。",
+    "event": [
+      {
+        "core_name": "食欲",
+        "tendency": "",
+        "character": [
+          "正常"
+        ],
+        "anatomy_list": []
+      },
+      {
+        "core_name": "神志",
+        "tendency": "",
+        "character": [
+          "清醒"
+        ],
+        "anatomy_list": []
+      },
+      {
+        "core_name": "精神",
+        "tendency": "",
+        "character": [
+          "尚可"
+        ],
+        "anatomy_list": []
+      },
+      {
+        "core_name": "睡眠",
+        "tendency": "",
+        "character": [
+          "欠佳"
+        ],
+        "anatomy_list": []
+      },
+      {
+        "core_name": "大便",
+        "tendency": "",
+        "character": [
+          "正常"
+        ],
+        "anatomy_list": []
+      },
+      {
+        "core_name": "小便",
+        "tendency": "",
+        "character": [
+          "正常"
+        ],
+        "anatomy_list": []
+      },
+      {
+        "core_name": "体重变化",
+        "tendency": "",
+        "character": [
+          "明显"
+        ],
+        "anatomy_list": []
+      }
+    ]
+  },
+  {
+    "id": 1425,
+    "text": "请外科会诊后建议至上级医院手术或者放化疗，但患者拒绝并办理出院；此后患者仍诉张口困难，偶有左侧面颈部轻微疼痛，无发热，无咳嗽咯痰，无腹痛腹泻，22天前患者在家属陪同下再次到我科住院治疗，入院后完善检查无化疗禁忌，征得患者及家属同意后于5-25日行紫杉醇240mg d1+奈达铂120mg d1化疗，并于5月29日给予帕米磷酸二钠抗溶骨治疗，治疗过程顺利，化疗后患者面部包块缩小，今日患者为行下一疗程化疗入院，门诊以“口腔粘膜恶性肿瘤 口腔鳞状细胞癌 t4n2M0”收治入院。",
+    "event": [
+      {
+        "core_name": "张口困难",
+        "tendency": "",
+        "character": [],
+        "anatomy_list": []
+      },
+      {
+        "core_name": "疼痛",
+        "tendency": "",
+        "character": [
+          "轻微"
+        ],
+        "anatomy_list": [
+          "左侧面",
+          "左侧颈部"
+        ]
+      },
+      {
+        "core_name": "发热",
+        "tendency": "否定",
+        "character": [],
+        "anatomy_list": []
+      },
+      {
+        "core_name": "咳嗽",
+        "tendency": "否定",
+        "character": [],
+        "anatomy_list": []
+      },
+      {
+        "core_name": "咳痰",
+        "tendency": "否定",
+        "character": [],
+        "anatomy_list": []
+      },
+      {
+        "core_name": "疼痛",
+        "tendency": "否定",
+        "character": [],
+        "anatomy_list": [
+          "腹"
+        ]
+      },
+      {
+        "core_name": "腹泻",
+        "tendency": "否定",
+        "character": [],
+        "anatomy_list": []
+      },
+      {
+        "core_name": "包块",
+        "tendency": "",
+        "character": [
+          "化疗后，缩小"
+        ],
+        "anatomy_list": [
+          "面部"
+        ]
+      },
+      {
+        "core_name": "恶性肿瘤",
+        "tendency": "",
+        "character": [],
+        "anatomy_list": [
+          "口腔粘膜"
+        ]
+      },
+      {
+        "core_name": "鳞癌",
+        "tendency": "",
+        "character": [],
+        "anatomy_list": [
+          "口腔"
+        ]
+      }
+    ]
+  }
+]

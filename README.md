@@ -1,2 +1,11 @@
-# TwoCEE
-A Two-Stage Framework for Clinical Event Extraction
+## 信息抽取
+
+#### EE-GP(pipeline, trigger+argument)  
+把事件抽取拆分为“触发词及事件类型识别”和“事件论元识别”两个子任务，并基于GlobalPointer分别对两个子任务进行建模。
+
+1. 触发词及事件类型识别  
+视为实体类别数量为m（事件类型数量）的实体识别任务。 
+
+2. 事件论元识别  
+视为实体类别数量为n（论元数量）的实体识别任务。  
+在文本中触发词所在位置的首尾打上tag（tag内容为事件类型信息），表示要对当前被打上tag的触发词抽取其对应的论元。
